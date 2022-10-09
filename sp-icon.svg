@@ -1,16 +1,6 @@
 <!-- svg sprite -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg_sprite">
-	<defs>
-		<style>
-			.sprite {
-				display: none
-			}
 
-			.sprite:target {
-				display: inline
-			}
-		</style>
-	</defs>
 	<g class="sprite" id="btn-record" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 		width="52" height="52" viewBox="0 0 52 52">
 		<g fill="none" fill-rule="evenodd">
